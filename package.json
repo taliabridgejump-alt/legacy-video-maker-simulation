@@ -1,7 +1,7 @@
 {
   "name": "legacy-video-maker-simulation",
   "version": "1.0.0",
-  "description": "Vyond legacy Emulator with Archive Mode",
+  "description": "Vyond Legacy Emulator with Archive Mode",
   "main": "src/server.js",
   "scripts": {
     "start": "node src/server.js",
