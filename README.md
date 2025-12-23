@@ -45,6 +45,18 @@ cd legacy-video-maker-simulation
 
 ## Usage
 
+### Quick Preview
+
+To see both operating modes in action, run the preview script:
+
+```bash
+./preview.sh
+```
+
+This interactive script will demonstrate:
+1. **Legacy Mode** - When the archive file is present
+2. **Wrapper Offline Mode** - When the archive file is missing
+
 ### Running the System
 
 ```bash
