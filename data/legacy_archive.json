@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "archiveDate": "2023-01-15",
+  "description": "Legacy Video Maker Archive - Simulated GoAnimate/Vyond legacy content",
+  "assets": {
+    "themes": [
+      "business_friendly",
+      "whiteboard_animation",
+      "video_infographics"
+    ],
+    "characters": [
+      "business_man_01",
+      "business_woman_01",
+      "casual_guy_01"
+    ],
+    "props": [
+      "desk",
+      "laptop",
+      "whiteboard"
+    ]
+  },
+  "settings": {
+    "maxVideoDuration": 300,
+    "defaultResolution": "720p",
+    "enabledFeatures": [
+      "text_to_speech",
+      "background_music",
+      "transitions"
+    ]
+  }
+}
