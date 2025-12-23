@@ -1,0 +1,16 @@
+{
+  "name": "legacy-video-maker-simulation",
+  "version": "1.0.0",
+  "description": "Vyond legacy Emulator with Archive Mode",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": ["vyond", "legacy", "simulator", "archive"],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
